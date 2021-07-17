@@ -9,7 +9,7 @@
 import java.util.Scanner;
 
 /**
- * This program demonstrates the Month class
+ * This program demonstrates the Geometry class
  * */
 
 public class GeometryCalculator
